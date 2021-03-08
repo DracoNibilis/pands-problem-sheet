@@ -1,4 +1,4 @@
-# Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
+# Write a program that asks a user to input a string and outputs every second letter in reverse order. 
 # Author: Magdalena Malik
 
 text = input("Please enter a sentence: ")
