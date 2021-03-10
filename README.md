@@ -14,3 +14,7 @@
 						 - https://github.com/Toktom/Newton-Raphson-Method
 						 - https://gist.github.com/aksiksi/2366925
  * week 7 * - es.py - Program that counts amount of letter 'e' in Moby Dick.
+ * week 8 * - plottask.py - Program  that displays a plot of the functions f(x)=x, g(x)=x**2 and h(x)=x**3 in the range [0, 4] on the one set of axes. 
+				-- used material: 
+						 - https://www.w3schools.com/python/matplotlib_intro.asp
+						 - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
