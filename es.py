@@ -2,7 +2,8 @@
 # Author: Magdalena Malik
 
 countOfE = 0
-fileToRead = input("enter a file name: ")
+#fileToRead = input("enter a file name: ")
+fileToRead = "mobydick.txt"  
 with open(fileToRead, "rt") as f:
     text = f.read()
     list_of_text = text.split()
