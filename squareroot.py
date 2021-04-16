@@ -1,8 +1,10 @@
 # A program that takes a positive floating-point number as input and outputs an approximation of its square root.
 # Author: Magdalena Malik
 
+#input for positive number
 num = float(input("Please enter a positive number: "))
 
+#function for counting square root
 def sqrt(num, error=0.1):
     guess = num
     diff = 99999999
